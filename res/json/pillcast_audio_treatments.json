@@ -1,0 +1,2346 @@
+{
+  "audioTreatments": [
+    {
+      "type": "calm",
+      "activeIngredient": "GABA",
+      "color": "#00C3FE",
+      "gradientColors": [
+        "#95DDFF",
+        "#FBF1ED"
+      ],
+      "name": "Program 1",
+      "uid": "1",
+      "tracks": [
+        {
+          "uid": "1",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment1%2Ftrack1.mp3?alt=media&token=aefba61e-f81b-43c3-9eb0-53193f71b383",
+          "name": "Orin Bell and Rotary Phone"
+        },
+        {
+          "uid": "2",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment1%2Ftrack2.mp3?alt=media&token=f07507f7-81dc-4d5c-aec9-a6d73607993c",
+          "name": "Antique Clock Repair Shop, a Canoe on Water, and Furin Chimes"
+        }
+      ]
+    },
+    {
+      "type": "calm",
+      "activeIngredient": "GABA",
+      "color": "#00C3FE",
+      "gradientColors": [
+        "#95DDFF",
+        "#FBF1ED"
+      ],
+      "name": "Program 2",
+      "uid": "2",
+      "tracks": [
+        {
+          "uid": "3",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment2%2Ftrack1.mp3?alt=media&token=5e25b53f-a11d-44d3-8560-3f3acb694f15",
+          "name": "Aquasonic and Wind Sounds"
+        },
+        {
+          "uid": "4",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment2%2Ftrack2.mp3?alt=media&token=19ea222a-964d-40d9-8d96-0b37f0119f99",
+          "name": "Spring Field Crickets"
+        },
+        {
+          "uid": "5",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment2%2Ftrack3.mp3?alt=media&token=6fb9775f-bf82-4da1-8199-9ea5b7918e10",
+          "name": "Frog Chorus and Wind, Rain, and Surf"
+        }
+      ]
+    },
+    {
+      "type": "calm",
+      "activeIngredient": "GABA",
+      "color": "#00C3FE",
+      "gradientColors": [
+        "#95DDFF",
+        "#FBF1ED"
+      ],
+      "name": "Program 3",
+      "uid": "3",
+      "tracks": [
+        {
+          "uid": "6",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment3%2Ftrack1.mp3?alt=media&token=ce3d3648-f244-4300-9158-bfa47912d989",
+          "name": "Zulu Voices"
+        },
+        {
+          "uid": "7",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment3%2Ftrack2.mp3?alt=media&token=d87a9dda-64f6-4029-a064-94abcb9b484f",
+          "name": "Jah Millipede"
+        },
+        {
+          "uid": "8",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment3%2Ftrack3.mp3?alt=media&token=564a3ad0-ed4a-410e-b4c2-62b72bc0ad4d",
+          "name": "Tibetan Singing Bowl"
+        },
+        {
+          "uid": "9",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment3%2Ftrack4.mp3?alt=media&token=5408854c-97d5-4c0f-a830-65c1ba1597d2",
+          "name": "Sound of Sleeping Pills Clattering, a Crackling Fire, and an Original Devendra Banhart Track"
+        },
+        {
+          "uid": "10",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment3%2Ftrack5.mp3?alt=media&token=77885169-8aaf-48f6-ac8d-88086e66b19e",
+          "name": "Church Bells in Cologne and the Crunching of a Gravel Road"
+        }
+      ]
+    },
+    {
+      "type": "confidence",
+      "activeIngredient": "dopamine",
+      "color": "#850DA8",
+      "gradientColors": [
+        "#FF9C86",
+        "#EC8AFF",
+        "#7F8BFF"
+      ],
+      "name": "Program 1",
+      "uid": "4",
+      "tracks": [
+        {
+          "uid": "11",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment1%2Ftrack1.mp3?alt=media&token=99575dde-19de-42dc-9edd-c51ed0c09b3e",
+          "name": "It Takes Two"
+        },
+        {
+          "uid": "12",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment1%2Ftrack2.mp3?alt=media&token=f8e7253c-8ad5-4675-be47-3c59d445d542",
+          "name": "My Lord is Writin'"
+        },
+        {
+          "uid": "13",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment1%2Ftrack3.mp3?alt=media&token=bcf637d5-8643-4929-ade2-126c25525397",
+          "name": "Clip of a Woman Singing on an Answering Machine"
+        },
+        {
+          "uid": "14",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment1%2Ftrack4.mp3?alt=media&token=d156ecd6-0a92-411c-8d4e-e25413139fc2",
+          "name": "I Started a Joke"
+        },
+        {
+          "uid": "15",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment1%2Ftrack5.mp3?alt=media&token=a0ab348a-e3cb-44f4-8c32-ed2ff993f6b8",
+          "name": "Carmina Burana"
+        }
+      ]
+    },
+    {
+      "type": "confidence",
+      "activeIngredient": "dopamine",
+      "color": "#850DA8",
+      "gradientColors": [
+        "#FF9C86",
+        "#EC8AFF",
+        "#7F8BFF"
+      ],
+      "name": "Program 2",
+      "uid": "5",
+      "tracks": [
+        {
+          "uid": "16",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment2%2Ftrack1.mp3?alt=media&token=9653fa9f-ad0d-4bf6-bed2-5285236493ab",
+          "name": "Music Box"
+        },
+        {
+          "uid": "17",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment2%2Ftrack2.mp3?alt=media&token=a82d20cb-0e9f-42d7-bbda-98b9df468c99",
+          "name": "Every Note on a Casio Keyboard"
+        },
+        {
+          "uid": "18",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment2%2Ftrack3.mp3?alt=media&token=02871ff5-e137-4a96-8630-2f0c0e93723f",
+          "name": "Gameboy Win"
+        },
+        {
+          "uid": "19",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment2%2Ftrack4.mp3?alt=media&token=4d0ce587-4a9e-4dba-9430-da7ad24b7db2",
+          "name": "Ice Cream Van"
+        },
+        {
+          "uid": "20",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment2%2Ftrack5.mp3?alt=media&token=0d1ef8ed-ec9a-46d5-987d-0a461c2372a0",
+          "name": "Venice Boardwalk Dancers"
+        },
+        {
+          "uid": "21",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment2%2Ftrack6.mp3?alt=media&token=c95b9182-87b9-4dde-ac1b-bd528d87bf29",
+          "name": "Orchestra Tuning, Sound of Music, and Zadok Handel"
+        }
+      ]
+    },
+    {
+      "type": "confidence",
+      "activeIngredient": "dopamine",
+      "color": "#850DA8",
+      "gradientColors": [
+        "#FF9C86",
+        "#EC8AFF",
+        "#7F8BFF"
+      ],
+      "name": "Program 3",
+      "uid": "6",
+      "tracks": [
+        {
+          "uid": "22",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment3%2Ftrack1.mp3?alt=media&token=0bfc363e-45ee-4fc8-b74c-fc5427e23980",
+          "name": "Freddie Mercury at Live Aid and Jimi Hendrix Solo"
+        },
+        {
+          "uid": "23",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment3%2Ftrack2.mp3?alt=media&token=a22a2522-cd6d-49d4-a21d-27207ef0bb24",
+          "name": "Dies Irae Verdi"
+        },
+        {
+          "uid": "24",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment3%2Ftrack3.mp3?alt=media&token=e4611575-9323-4b5f-9200-4dda409b9be6",
+          "name": "The Two Notes From Jaws and the Sound of a Shinkansen Train"
+        },
+        {
+          "uid": "25",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment3%2Ftrack4.mp3?alt=media&token=dcad7afb-3650-4e34-8c43-05e766a25ee2",
+          "name": "F-15 Strike Eagle and Star Wars Landing"
+        }
+      ]
+    },
+    {
+      "type": "connection",
+      "activeIngredient": "oxytocin",
+      "color": "#FC9597",
+      "gradientColors": [
+        "#FFB8B8",
+        "#CBFFFB"
+      ],
+      "name": "Program 1",
+      "uid": "7",
+      "tracks": [
+        {
+          "uid": "26",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment1%2Ftrack1.mp3?alt=media&token=8c401d97-cd78-46ee-9684-7e26ed7fd3a9",
+          "name": "Sofia Coppola at 5 Years Old"
+        },
+        {
+          "uid": "27",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment1%2Ftrack2.mp3?alt=media&token=394811f7-f167-4e60-9fdb-bdc9d2a0ff00",
+          "name": "5 Year Old Japanese Girl Singing Sukiyaki Song"
+        },
+        {
+          "uid": "28",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment1%2Ftrack3.mp3?alt=media&token=ba12b77e-d823-42d2-9a61-558ac8719daf",
+          "name": "Baby Giggling at the Sound of Ripping Paper"
+        },
+        {
+          "uid": "29",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment1%2Ftrack4.mp3?alt=media&token=b3e868b7-c6bf-4e3d-bf18-90aec409d9b8",
+          "name": "How Many Ice Cream Do You Want?"
+        }
+      ]
+    },
+    {
+      "type": "connection",
+      "activeIngredient": "oxytocin",
+      "color": "#FC9597",
+      "gradientColors": [
+        "#FFB8B8",
+        "#CBFFFB"
+      ],
+      "name": "Program 2",
+      "uid": "8",
+      "tracks": [
+        {
+          "uid": "30",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment2%2Ftrack1.mp3?alt=media&token=6dc57cfe-fb4f-4464-81c8-e640b728e706",
+          "name": "Koko, the Gorilla, Communicating with her Handler"
+        },
+        {
+          "uid": "31",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment2%2Ftrack2.mp3?alt=media&token=46ba0b98-bd46-4136-a3f2-9d85d6a621c5",
+          "name": "Guinea Pig Squeak and Desert Frog Squeaking"
+        },
+        {
+          "uid": "32",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment2%2Ftrack3.mp3?alt=media&token=b0ea883c-b248-4e70-b1de-6e9d0e1b024e",
+          "name": "Exotic Birds Wildlife Sounds"
+        },
+        {
+          "uid": "33",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment2%2Ftrack4.mp3?alt=media&token=cfb03adf-4122-4ffe-b69a-4fee1e0570bc",
+          "name": "Tiger Cub Sneezing"
+        }
+      ]
+    },
+    {
+      "type": "connection",
+      "activeIngredient": "oxytocin",
+      "color": "#FC9597",
+      "gradientColors": [
+        "#FFB8B8",
+        "#CBFFFB"
+      ],
+      "name": "Program 3",
+      "uid": "9",
+      "tracks": [
+        {
+          "uid": "34",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment3%2Ftrack1.mp3?alt=media&token=bee93675-fb3b-4ff5-8ef0-520aa75a196c",
+          "name": "Japanese Children Singing"
+        },
+        {
+          "uid": "35",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment3%2Ftrack2.mp3?alt=media&token=04bc6f94-83bf-481a-be9c-fef7ebdbd8b7",
+          "name": "Old OK Soda Ad – Thoughts"
+        },
+        {
+          "uid": "36",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment3%2Ftrack3.mp3?alt=media&token=8c8f3543-d757-4bc0-b51d-a7fe0c588c37",
+          "name": "Happy Dog Playing in the Mud"
+        },
+        {
+          "uid": "37",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment3%2Ftrack4.mp3?alt=media&token=24add853-7a8b-4321-bf4a-07e9f84a740e",
+          "name": "Roxy the Hyena Laughing"
+        },
+        {
+          "uid": "38",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment3%2Ftrack5.mp3?alt=media&token=7f7b6bc9-b72a-4262-be20-3c9b238623d9",
+          "name": "Families Trick or Treating in LA"
+        }
+      ]
+    },
+    {
+      "type": "energy",
+      "activeIngredient": "endorphins",
+      "color": "#FB3E00",
+      "gradientColors": [
+        "#F43B47",
+        "#FEE140"
+      ],
+      "name": "Program 1",
+      "uid": "10",
+      "tracks": [
+        {
+          "uid": "39",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment1%2Ftrack1.mp3?alt=media&token=e1c26066-9ed3-4062-8c2a-f23237a519f5",
+          "name": "Answering Machine Clip – Atkins Diet"
+        },
+        {
+          "uid": "40",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment1%2Ftrack2.mp3?alt=media&token=a1e471f5-fd36-4e76-9722-7a314c5921c1",
+          "name": "Appollo 11 Launch Sound"
+        },
+        {
+          "uid": "41",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment1%2Ftrack3.mp3?alt=media&token=2917ea9e-f33c-4a61-bb36-3e70b6dbb6d8",
+          "name": "Bullet Train Arrival Announcement"
+        },
+        {
+          "uid": "42",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment1%2Ftrack4.mp3?alt=media&token=f3b41f27-e2c7-43b4-9656-888e85261431",
+          "name": "Music of the Spheres – Sounds on the Golden Record"
+        },
+        {
+          "uid": "43",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment1%2Ftrack5.mp3?alt=media&token=aad47f00-0261-4cb3-8d34-0738cda76c67",
+          "name": "Sounds of Tennis"
+        }
+      ]
+    },
+    {
+      "type": "energy",
+      "activeIngredient": "endorphins",
+      "color": "#FB3E00",
+      "gradientColors": [
+        "#F43B47",
+        "#FEE140"
+      ],
+      "name": "Program 2",
+      "uid": "11",
+      "tracks": [
+        {
+          "uid": "44",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment2%2Ftrack1.mp3?alt=media&token=bd4be81b-631c-417d-897f-4b9902aaa7e1",
+          "name": "Football Pep Talk"
+        },
+        {
+          "uid": "45",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment2%2Ftrack2.mp3?alt=media&token=f841aa1c-8865-49a2-a802-401009becd3e",
+          "name": "Fighter Jet / Fast Airplane"
+        },
+        {
+          "uid": "46",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment2%2Ftrack3.mp3?alt=media&token=8ab1514b-1a4d-4d04-97e4-ef8037744611",
+          "name": "F1 Race Car"
+        },
+        {
+          "uid": "47",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment2%2Ftrack4.mp3?alt=media&token=8e10a1c0-4250-4ab3-86bd-541ddfb07638",
+          "name": "Sound of a Train Speeding Toward You"
+        },
+        {
+          "uid": "48",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment2%2Ftrack5.mp3?alt=media&token=cb2af4cd-5fb1-43e9-8292-1e5a0db05c64",
+          "name": "F-111 Flyby, Saturn 5 Lift-Off"
+        }
+      ]
+    },
+    {
+      "type": "energy",
+      "activeIngredient": "endorphins",
+      "color": "#FB3E00",
+      "gradientColors": [
+        "#F43B47",
+        "#FEE140"
+      ],
+      "name": "Program 3",
+      "uid": "12",
+      "tracks": [
+        {
+          "uid": "49",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment3%2Ftrack1.mp3?alt=media&token=96736c93-aa18-4d61-80e5-0cee67da60f1",
+          "name": "Baby Laughing in the Bath"
+        },
+        {
+          "uid": "50",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment3%2Ftrack2.mp3?alt=media&token=3ef71756-d2d7-47ba-8b83-c7efd4b8166b",
+          "name": "Robot Laugh"
+        },
+        {
+          "uid": "51",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment3%2Ftrack3.mp3?alt=media&token=1435d90e-fdeb-4e73-abf9-904aae9f11e0",
+          "name": "Roller Coaster"
+        },
+        {
+          "uid": "52",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment3%2Ftrack4.mp3?alt=media&token=8167053b-c669-4422-87af-c6ad6ca24a15",
+          "name": "Football Pep Talk (Speeding Up) and Audience Laughter"
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "activeIngredient": "acetylcholine",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 1",
+      "uid": "13",
+      "tracks": [
+        {
+          "uid": "53",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment1%2Ftrack1.mp3?alt=media&token=c5dc1c3c-bd82-4c73-bebc-f2cd9a9cb6cb",
+          "name": "Jacqueline Kennedy's White House Tour"
+        },
+        {
+          "uid": "54",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment1%2Ftrack2.mp3?alt=media&token=e4f46279-4dd0-405d-8477-0cacd356e16d",
+          "name": "Clip of Woman Talking About Online Dating on an Answering Machine"
+        },
+        {
+          "uid": "55",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment1%2Ftrack3.mp3?alt=media&token=b33260dd-a3e6-4cad-8374-8a95d6fc167b",
+          "name": "Dame Kristin Scott Thomas Reads New Yorker's Shouts and Murmurs Section"
+        },
+        {
+          "uid": "56",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment1%2Ftrack4.mp3?alt=media&token=139cf40d-314a-43a2-893f-5659f51dca68",
+          "name": "Voice That Sounds Like Scarlett Johansson – Virginia Lovers"
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "activeIngredient": "acetylcholine",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 2",
+      "uid": "14",
+      "tracks": [
+        {
+          "uid": "57",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment2%2Ftrack1.mp3?alt=media&token=9550af3d-b592-4005-8872-cbcfef9ece50",
+          "name": "A Woman Counting in Spanish and a Child Learning to Read"
+        },
+        {
+          "uid": "58",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment2%2Ftrack2.mp3?alt=media&token=fa58c4b1-a3c1-4b6f-8de9-e683af6b1afb",
+          "name": "A Reading of Samuel Beckett Reading"
+        },
+        {
+          "uid": "59",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment2%2Ftrack3.mp3?alt=media&token=e6bc09fa-6d06-4006-9b53-45648fece4a4",
+          "name": "Allen Iverson Talking About Practice"
+        },
+        {
+          "uid": "60",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment2%2Ftrack4.mp3?alt=media&token=3af92979-4fad-4842-aa26-282443caa95c",
+          "name": "Dame Kristin Scott Thomas Reading Various Quotes"
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "activeIngredient": "acetylcholine",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 3",
+      "uid": "15",
+      "tracks": [
+        {
+          "uid": "61",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment3%2Ftrack1.mp3?alt=media&token=7caf1058-2afe-4e49-a5ee-33a838c11ce2",
+          "name": "Fetal Heartbeat and the Queen's Speech Backwards"
+        },
+        {
+          "uid": "62",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment3%2Ftrack2.mp3?alt=media&token=ebd8f782-c7b3-40e8-a030-73e7080c7434",
+          "name": "Greetings in 55 Languages from the Voyager Golden Record"
+        },
+        {
+          "uid": "63",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment3%2Ftrack3.mp3?alt=media&token=bb2ca343-2463-4522-98e4-c6a2709d7109",
+          "name": "Fetal Heartbeat Backwards"
+        }
+      ]
+    },
+    {
+      "type": "imagination",
+      "activeIngredient": "experimental",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 1",
+      "uid": "16",
+      "tracks": [
+        {
+          "uid": "64",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment1%2Ftrack1.mp3?alt=media&token=7f0b60ef-2114-4e72-a688-eeaa1705e6ed",
+          "name": "Office Chair"
+        },
+        {
+          "uid": "65",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment1%2Ftrack2.mp3?alt=media&token=a2a2c99b-14bb-4512-81cd-4742846c1083",
+          "name": "Walking in Traditional Geta Shoes"
+        },
+        {
+          "uid": "66",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment1%2Ftrack3.mp3?alt=media&token=35346643-b533-4e74-82eb-6a523e51e353",
+          "name": "Hammer Chiseling a Brick"
+        },
+        {
+          "uid": "67",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment1%2Ftrack4.mp3?alt=media&token=021735fb-458d-47a1-9247-2019ff8cc246",
+          "name": "Vinyl Record Crackle and Skipping"
+        },
+        {
+          "uid": "68",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment1%2Ftrack5.mp3?alt=media&token=dc89d1b5-03a2-4c64-a08b-4dfd05aebee1",
+          "name": "Artificial Bird Signal at a Crosswalk in Japan"
+        },
+        {
+          "uid": "69",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment1%2Ftrack6.mp3?alt=media&token=002b8691-1e19-43f0-8fcf-85f4b25a0169",
+          "name": "Water Boiling in Nambu Pot and a Japanese Sliding Door"
+        }
+      ]
+    },
+    {
+      "type": "imagination",
+      "activeIngredient": "experimental",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 2",
+      "uid": "17",
+      "tracks": [
+        {
+          "uid": "70",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment2%2Ftrack1.mp3?alt=media&token=eabbecfd-5a7e-4010-b354-ceaed9774b0f",
+          "name": "Skiing Chairlift Line"
+        },
+        {
+          "uid": "71",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment2%2Ftrack2.mp3?alt=media&token=8b32a00c-8e95-4a48-8a0f-5bf50f4046d4",
+          "name": "Spraypainting at Venice Boardwalk"
+        },
+        {
+          "uid": "72",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment2%2Ftrack3.mp3?alt=media&token=7c22cfa1-5af6-44e7-9708-cf1248d13897",
+          "name": "Pottery Factory"
+        },
+        {
+          "uid": "73",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment2%2Ftrack4.mp3?alt=media&token=0eb3cdb2-b351-4dbd-8bc6-de0a39d806fa",
+          "name": "Cow Bells in Switzerland"
+        }
+      ]
+    },
+    {
+      "type": "imagination",
+      "activeIngredient": "experimental",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 3",
+      "uid": "18",
+      "tracks": [
+        {
+          "uid": "74",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment3%2Ftrack1.mp3?alt=media&token=1e4a66cc-8903-4a4b-baf1-94a4c7ba0f09",
+          "name": "Crackling Fire"
+        },
+        {
+          "uid": "75",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment3%2Ftrack2.mp3?alt=media&token=0ce862ee-5a8d-4ba4-929f-3123271fd183",
+          "name": "Frog Chorus and Canoe on Water"
+        },
+        {
+          "uid": "76",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment3%2Ftrack3.mp3?alt=media&token=ee065cf8-72c1-4383-9ccd-1e20fd158e02",
+          "name": "Suzumushi Crickets"
+        },
+        {
+          "uid": "77",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment3%2Ftrack4.mp3?alt=media&token=7396d530-b1d7-4e73-8860-daffb94723ba",
+          "name": "Wind in Wattle Trees"
+        },
+        {
+          "uid": "78",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment3%2Ftrack5.mp3?alt=media&token=cc6843dc-eadc-45ee-8715-b8c1c3683c8f",
+          "name": "Birds"
+        },
+        {
+          "uid": "79",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment3%2Ftrack6.mp3?alt=media&token=9892b4cc-ff2a-4c0c-a6cd-8a5cd17d6163",
+          "name": "Frog Chorus"
+        }
+      ]
+    },
+    {
+      "type": "strength",
+      "activeIngredient": "testosterone",
+      "color": "#120BD6",
+      "gradientColors": [
+        "#B6F7FD",
+        "#5652C8"
+      ],
+      "name": "Program 1",
+      "uid": "19",
+      "tracks": [
+        {
+          "uid": "80",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment1%2Ftrack1.mp3?alt=media&token=2f3ef0d0-2ad9-4e66-a5b4-438b374aff07",
+          "name": "Matthew McConaughey Beating His Chest, Boxing Speed Bag Punching, Wrestling Match Slam, and Applause"
+        },
+        {
+          "uid": "81",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment1%2Ftrack2.mp3?alt=media&token=8042264d-f86a-42c5-bfd8-d22bcb8e533f",
+          "name": "Dogs Barking"
+        },
+        {
+          "uid": "82",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment1%2Ftrack3.mp3?alt=media&token=751d9974-51fa-479a-947e-9e77f6325720",
+          "name": "Donkey Honking"
+        }
+      ]
+    },
+    {
+      "type": "strength",
+      "activeIngredient": "testosterone",
+      "color": "#120BD6",
+      "gradientColors": [
+        "#B6F7FD",
+        "#5652C8"
+      ],
+      "name": "Program 2",
+      "uid": "20",
+      "tracks": [
+        {
+          "uid": "83",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment2%2Ftrack1.mp3?alt=media&token=1830ed5d-1085-4016-b786-750da69112fb",
+          "name": "Native American Drum Chant"
+        },
+        {
+          "uid": "84",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment2%2Ftrack2.mp3?alt=media&token=43208359-ec4f-4ea2-90c7-00b5f05b7863",
+          "name": "Pots and Pans Parade"
+        },
+        {
+          "uid": "85",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment2%2Ftrack3.mp3?alt=media&token=b3b4c268-eeb0-4a1c-9a59-6f6fdd4fee22",
+          "name": "Hammer Chiseling Brick"
+        },
+        {
+          "uid": "86",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment2%2Ftrack4.mp3?alt=media&token=8f103e75-78e9-46aa-bea5-74ca51f920c5",
+          "name": "Sumo Wrestling"
+        },
+        {
+          "uid": "87",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment2%2Ftrack5.mp3?alt=media&token=97463890-ddc7-4c60-87c2-91f3e10a7659",
+          "name": "Wolfdog Howling on a Beach"
+        }
+      ]
+    },
+    {
+      "type": "strength",
+      "activeIngredient": "testosterone",
+      "color": "#120BD6",
+      "gradientColors": [
+        "#B6F7FD",
+        "#5652C8"
+      ],
+      "name": "Program 3",
+      "uid": "21",
+      "tracks": [
+        {
+          "uid": "88",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment3%2Ftrack1.mp3?alt=media&token=2e8e15f1-ae49-46e0-bf23-3eda7ad8aa18",
+          "name": "Crystal Palace Swimming Competition"
+        },
+        {
+          "uid": "89",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment3%2Ftrack2.mp3?alt=media&token=ef78caeb-43b2-4a5b-aa90-2444d8bcd361",
+          "name": "Man Running"
+        },
+        {
+          "uid": "90",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment3%2Ftrack3.mp3?alt=media&token=0c98284b-7fce-4119-927e-df743a541f4c",
+          "name": "Football Pep Talk"
+        },
+        {
+          "uid": "91",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment3%2Ftrack4.mp3?alt=media&token=f69c9d7e-b980-4586-8551-323c2a5374e1",
+          "name": "Seated Chest Press"
+        },
+        {
+          "uid": "92",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment3%2Ftrack5.mp3?alt=media&token=0fc5b45c-ff9a-4a2c-9e11-1860ee56bd3e",
+          "name": "Tennis Serves"
+        }
+      ]
+    },
+    {
+      "type": "calm",
+      "activeIngredient": "GABA",
+      "color": "#00C3FE",
+      "gradientColors": [
+        "#95DDFF",
+        "#FBF1ED"
+      ],
+      "name": "Program 4",
+      "uid": "22",
+      "tracks": [
+        {
+          "uid": "93",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment4%2Fgaba3-track0.mp3?alt=media&token=05e9be07-a312-4887-a51f-1520a3f55d00",
+          "name": "Windsurfing and People Enjoying a Pool in Etosha Game Reserve, Namibia"
+        },
+        {
+          "uid": "94",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment4%2Fgaba3-track1.mp3?alt=media&token=c9af527c-e71d-4b00-9c01-7f4c1cffd9ae",
+          "name": "A 25\" Yacht's Bow Wave and a Floating Iceberg in Lake Grey, Chile"
+        },
+        {
+          "uid": "95",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment4%2Fgaba3-track1.mp3?alt=media&token=c9af527c-e71d-4b00-9c01-7f4c1cffd9ae",
+          "name": "Sounds of an Approaching Storm and the Scottish Coastline"
+        }
+      ]
+    },
+    {
+      "type": "calm",
+      "activeIngredient": "GABA",
+      "color": "#00C3FE",
+      "gradientColors": [
+        "#95DDFF",
+        "#FBF1ED"
+      ],
+      "name": "Program 5",
+      "uid": "23",
+      "tracks": [
+        {
+          "uid": "96",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment5%2Fgaba4-track0.mp3?alt=media&token=2d73c5fb-f625-4653-a03a-a5409bd8d67a",
+          "name": "Bottle Twist and Sleeping Pills"
+        },
+        {
+          "uid": "97",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment5%2Fgaba4-track1.mp3?alt=media&token=738d70be-bbf7-4fca-a153-e2564f18a572",
+          "name": "Wind Wattle Trees and Spring Field Crickets"
+        },
+        {
+          "uid": "98",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment5%2Fgaba4-track2.mp3?alt=media&token=81309289-9a10-4f48-ada4-1cd343644f8c",
+          "name": "Spring Field Crickets and Scottish Clock"
+        },
+        {
+          "uid": "99",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment5%2Fgaba4-track3.mp3?alt=media&token=93f135bd-32d7-4bfe-9f89-cc58497effd0",
+          "name": "Spring Field Crickets and Rotary Phone"
+        }
+      ]
+    },
+    {
+      "type": "calm",
+      "activeIngredient": "GABA",
+      "color": "#00C3FE",
+      "gradientColors": [
+        "#95DDFF",
+        "#FBF1ED"
+      ],
+      "name": "Program 6",
+      "uid": "24",
+      "tracks": [
+        {
+          "uid": "100",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment6%2Fgaba5-track0.mp3?alt=media&token=e0e83508-00a3-4982-93e5-2400ec94e6ab",
+          "name": "Raining in Japanese Shrine and Birds Chirping"
+        },
+        {
+          "uid": "101",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment6%2Fgaba5-track1.mp3?alt=media&token=05c533cd-63ec-4108-ac5d-0677036b4faa",
+          "name": "Small Waterfall by a Temple in Japan and a Shishi Odoshi Fountain"
+        },
+        {
+          "uid": "102",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Ftreatment6%2Fgaba5-track2.mp3?alt=media&token=62954ab7-1358-4e03-be1f-44685849ac03",
+          "name": "Tlingit Paddling Song"
+        }
+      ]
+    },
+    {
+      "type": "confidence",
+      "activeIngredient": "dopamine",
+      "color": "#850DA8",
+      "gradientColors": [
+        "#FF9C86",
+        "#EC8AFF",
+        "#7F8BFF"
+      ],
+      "name": "Program 4",
+      "uid": "25",
+      "tracks": [
+        {
+          "uid": "103",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment4%2Fdop3-track0.mp3?alt=media&token=addbc66a-3701-4b20-8e2c-5508a130d930",
+          "name": "Piano Tuning"
+        },
+        {
+          "uid": "104",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment4%2Fdop3-track1.mp3?alt=media&token=6637a21d-8765-4dc8-97ae-dbc1f4ece722",
+          "name": "Harmonized Clarinet, a Music Box, and an Ice Cream Van"
+        },
+        {
+          "uid": "105",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment4%2Fdop3-track2.mp3?alt=media&token=fa64eb41-bdee-466f-b3a7-0004c7e9ac08",
+          "name": "Old Time Piano Roll (The Entertainer - Scott Joplin)"
+        }
+      ]
+    },
+    {
+      "type": "confidence",
+      "activeIngredient": "dopamine",
+      "color": "#850DA8",
+      "gradientColors": [
+        "#FF9C86",
+        "#EC8AFF",
+        "#7F8BFF"
+      ],
+      "name": "Program 5",
+      "uid": "26",
+      "tracks": [
+        {
+          "uid": "106",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment5%2Fdop4-track0.mp3?alt=media&token=678496d3-d8a6-4086-811c-56d22740fc9a",
+          "name": "Wooden Loom"
+        },
+        {
+          "uid": "107",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment5%2Fdop4-track1.mp3?alt=media&token=1baf6a6d-d550-460e-af6b-12b614fe3eb6",
+          "name": "Bowling Strike and Celtic Hand Drums"
+        },
+        {
+          "uid": "108",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment5%2Fdop4-track2.mp3?alt=media&token=55020068-21a6-4e66-af87-c6f30211b4b1",
+          "name": "Seated Chest Press"
+        },
+        {
+          "uid": "109",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment5%2Fdop4-track3.mp3?alt=media&token=5908851e-d2d5-42c7-ba13-3046d5ccf845",
+          "name": "Opening Fridge Door and Eating Crackers"
+        }
+      ]
+    },
+    {
+      "type": "confidence",
+      "activeIngredient": "dopamine",
+      "color": "#850DA8",
+      "gradientColors": [
+        "#FF9C86",
+        "#EC8AFF",
+        "#7F8BFF"
+      ],
+      "name": "Program 6",
+      "uid": "27",
+      "tracks": [
+        {
+          "uid": "110",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment6%2Fdop5-track0.mp3?alt=media&token=c4291a34-3678-46a8-96c9-d1d5ea5b064b",
+          "name": "Golden Jubilee Quartet Performing Anyhow!"
+        },
+        {
+          "uid": "111",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment6%2Fdop5-track1.mp3?alt=media&token=7e5cc1f4-5b55-4d8a-b346-803c61641f80",
+          "name": "Old Japanese Guys and American Expats Playing Blues at a Small Bar in Yokohama"
+        },
+        {
+          "uid": "112",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment6%2Fdop5-track2.mp3?alt=media&token=c1974dc2-7e8a-4298-953d-ceaa1a6bdd2f",
+          "name": "Zora Neale Hurston Performing Let's Shake It"
+        },
+        {
+          "uid": "113",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Ftreatment6%2Fdop5-track3.mp3?alt=media&token=89fd1197-68bd-41bc-ad0e-d32faf486302",
+          "name": "Vinyl Skipping and The House Davidson Singers Performing De Lawd Says"
+        }
+      ]
+    },
+    {
+      "type": "imagination",
+      "activeIngredient": "experimental",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 4",
+      "uid": "28",
+      "tracks": [
+        {
+          "uid": "114",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment4%2Fem3-track0.mp3?alt=media&token=5304c58a-3100-47a5-bba9-8fe39f63bc84",
+          "name": "Children Playing Clapping Games"
+        },
+        {
+          "uid": "115",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment4%2Fem3-track1.mp3?alt=media&token=0a7ee2c5-daa9-45ab-a3eb-d43479413854",
+          "name": "Kids in the Streets of Tokyo After School"
+        },
+        {
+          "uid": "116",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment4%2Fem3-track2.mp3?alt=media&token=78420f75-5092-450c-aa37-09c0a7e4351e",
+          "name": "Japanese Children Singing in Tokyo"
+        },
+        {
+          "uid": "117",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment4%2Fem3-track3.mp3?alt=media&token=05f7100d-3d8c-495b-bed4-fdc178eec17d",
+          "name": "Children Learning How to Read"
+        },
+        {
+          "uid": "118",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment4%2Fem3-track4.mp3?alt=media&token=00b70439-9739-490f-9b3a-90f9ccc6151f",
+          "name": "People Enjoying a Pool in Etosha Game Reserve, Namibia and Families Trick or Treating in Los Angeles"
+        }
+      ]
+    },
+    {
+      "type": "imagination",
+      "activeIngredient": "experimental",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 5",
+      "uid": "29",
+      "tracks": [
+        {
+          "uid": "119",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment5%2Fem4-track0.mp3?alt=media&token=8a7f2f7e-2765-4e26-b356-5076053691c1",
+          "name": "Binaural Thunderstorm, An Approaching Storm, and Exhale Mikhail Karikis"
+        },
+        {
+          "uid": "120",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment5%2Fem4-track1.mp3?alt=media&token=e47e3fdd-2c67-4db2-822d-e12effb6942d",
+          "name": "Sounds of Broken Glass Slowing Down"
+        },
+        {
+          "uid": "121",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment5%2Fem4-track2.mp3?alt=media&token=0b53697a-d198-463b-a960-23da9d984052",
+          "name": "ASMR Brushing"
+        },
+        {
+          "uid": "122",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment5%2Fem4-track3.mp3?alt=media&token=24fd72cc-8e2c-427f-b3e6-6236527a3f9f",
+          "name": "Volcanoes, Earthquake, Wind, Rain, and Surf"
+        }
+      ]
+    },
+    {
+      "type": "imagination",
+      "activeIngredient": "experimental",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 6",
+      "uid": "30",
+      "tracks": [
+        {
+          "uid": "123",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment6%2Fem5-track0.mp3?alt=media&token=7117f9ec-360f-4660-ac5d-6a42b1daaedb",
+          "name": "Bottle Twist, Popping Champagne, Glasses Clinking, Swallowing, Opening the Fridge, and Eating Chocolate"
+        },
+        {
+          "uid": "124",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment6%2Fem5-track1.mp3?alt=media&token=3f885fae-5f32-4c73-b571-31de21c58811",
+          "name": "Dial Tone and Clip of a Woman Singing on an Answering Machine"
+        },
+        {
+          "uid": "125",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment6%2Fem5-track2.mp3?alt=media&token=2334d6ec-7378-4f4d-8ba5-57012d28e04f",
+          "name": "Clip of Woman Talking About Online Dating on an Answering Machine"
+        },
+        {
+          "uid": "126",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Ftreatment6%2Fem5-track3.mp3?alt=media&token=de66fed7-5fc9-4fcf-860d-2633a8079e9d",
+          "name": "Clip of Man Talking About Atkins Diet on an Answering Machine"
+        }
+      ]
+    },
+    {
+      "type": "energy",
+      "activeIngredient": "endorphins",
+      "color": "#FB3E00",
+      "gradientColors": [
+        "#F43B47",
+        "#FEE140"
+      ],
+      "name": "Program 4",
+      "uid": "31",
+      "tracks": [
+        {
+          "uid": "127",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment4%2Fendorphins3-track0.mp3?alt=media&token=f2d64de1-c246-4e97-8092-e79c407c6ec3",
+          "name": "Horror show clip- House on Lost Man's Bluff by The Hermit's Cave and Lava Sounds"
+        },
+        {
+          "uid": "128",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment4%2Fendorphins3-track1.mp3?alt=media&token=7581db98-8345-4f50-8667-574bfff8842f",
+          "name": "Shinkansen Trains, Rollercoaster Screams, and Screeching Tires"
+        }
+      ]
+    },
+    {
+      "type": "energy",
+      "activeIngredient": "endorphins",
+      "color": "#FB3E00",
+      "gradientColors": [
+        "#F43B47",
+        "#FEE140"
+      ],
+      "name": "Program 5",
+      "uid": "32",
+      "tracks": [
+        {
+          "uid": "127",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment5%2Fendorphins4-track0.mp3?alt=media&token=01fb1364-b423-4d37-947a-d78a7ea1129c",
+          "name": "Donkey Honking"
+        },
+        {
+          "uid": "128",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment5%2Fendorphins4-track1.mp3?alt=media&token=f569caab-2b04-497f-9929-777e6ce77c46",
+          "name": "Dog With a Funny Bark"
+        },
+        {
+          "uid": "129",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment5%2Fendorphins4-track2.mp3?alt=media&token=93979451-8055-4041-8538-6dd381040f05",
+          "name": "Roxy the Hyena Laughing"
+        },
+        {
+          "uid": "130",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment5%2Fendorphins4-track3.mp3?alt=media&token=fbb78cce-23ef-467a-ad19-d02963662d62",
+          "name": "Dogs Barking"
+        },
+        {
+          "uid": "131",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment5%2Fendorphins4-track4.mp3?alt=media&token=93a8d165-1461-4116-97a2-e65604029546",
+          "name": "Guinea Pig Sqeaking"
+        },
+        {
+          "uid": "132",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment5%2Fendorphins4-track5.mp3?alt=media&token=3835019d-d8ba-487e-9efa-39277538002d",
+          "name": "Sheep Bleating"
+        },
+        {
+          "uid": "133",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment5%2Fendorphins4-track6.mp3?alt=media&token=8aea5cb0-da86-4aba-9a37-b236040a3452",
+          "name": "Horror show clip- House on Lost Man's Bluff by The Hermit's Cave"
+        }
+      ]
+    },
+    {
+      "type": "energy",
+      "activeIngredient": "endorphins",
+      "color": "#FB3E00",
+      "gradientColors": [
+        "#F43B47",
+        "#FEE140"
+      ],
+      "name": "Program 6",
+      "uid": "33",
+      "tracks": [
+        {
+          "uid": "134",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment6%2Fendorphins5-track0.mp3?alt=media&token=e8e78b1a-f028-4d75-9504-b5d16298a016",
+          "name": "Russian Intel"
+        },
+        {
+          "uid": "135",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Ftreatment6%2Fendorphins5-track1.mp3?alt=media&token=a54857e1-410e-434d-a0d0-cf4380b0392c",
+          "name": "Horror show clip, Jaws Theme, Audience Laughter, and Robot Laughter"
+        }
+      ]
+    },
+    {
+      "type": "connection",
+      "activeIngredient": "oxytocin",
+      "color": "#FC9597",
+      "gradientColors": [
+        "#FFB8B8",
+        "#CBFFFB"
+      ],
+      "name": "Program 4",
+      "uid": "34",
+      "tracks": [
+        {
+          "uid": "136",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment4%2Foxytocin3-track0.mp3?alt=media&token=f38f9142-af35-4c3b-a334-6ebd62f7928b",
+          "name": "Dogs Playing Fetch and Dogs Barking"
+        },
+        {
+          "uid": "137",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment4%2Foxytocin3-track1.mp3?alt=media&token=27dc8ca0-ed7c-498e-af52-8e103a27a8f7",
+          "name": "Happy Dog Playing in the Mud"
+        },
+        {
+          "uid": "138",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment4%2Foxytocin3-track2.mp3?alt=media&token=88fa81d0-dbab-4043-853a-34b2ee149dad",
+          "name": "Sheep Bleating"
+        },
+        {
+          "uid": "139",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment4%2Foxytocin3-track3.mp3?alt=media&token=345c6d9a-8120-44e0-8ba8-dfe5fae8920d",
+          "name": "Persian Cat Sounds"
+        }
+      ]
+    },
+    {
+      "type": "connection",
+      "activeIngredient": "oxytocin",
+      "color": "#FC9597",
+      "gradientColors": [
+        "#FFB8B8",
+        "#CBFFFB"
+      ],
+      "name": "Program 5",
+      "uid": "35",
+      "tracks": [
+        {
+          "uid": "140",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment5%2Foxy4-track0.mp3?alt=media&token=de5dece0-b8b5-42d7-bed2-2d9c77feb6b0",
+          "name": "Baby Birds Feeding"
+        },
+        {
+          "uid": "141",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment5%2Foxy4-track1.mp3?alt=media&token=103c54c8-6abb-4168-a73a-55cc54063814",
+          "name": "Raining in Japanese Shrine and Birds Chirping"
+        },
+        {
+          "uid": "142",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment5%2Foxy4-track2.mp3?alt=media&token=544b4e61-2ebe-43d1-ac52-9e724fbadb13",
+          "name": "Desert Rain Frog Squeaking"
+        },
+        {
+          "uid": "143",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment5%2Foxy4-track3.mp3?alt=media&token=6539dbc4-fd66-4a0e-9045-1d8d09ca4dca",
+          "name": "Starlings and Exotic Bird Sounds"
+        },
+        {
+          "uid": "144",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment5%2Foxy4-track4.mp3?alt=media&token=c6129c15-0834-4965-94dd-3793c785b14e",
+          "name": "Guinea Pig Squeak"
+        }
+      ]
+    },
+    {
+      "type": "connection",
+      "activeIngredient": "oxytocin",
+      "color": "#FC9597",
+      "gradientColors": [
+        "#FFB8B8",
+        "#CBFFFB"
+      ],
+      "name": "Program 6",
+      "uid": "36",
+      "tracks": [
+        {
+          "uid": "145",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment6%2Foxy5-track0.mp3?alt=media&token=ec82c9ab-021b-4582-8edc-bf4a11217847",
+          "name": "Alligator Bellow"
+        },
+        {
+          "uid": "146",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment6%2Foxy5-track1.mp3?alt=media&token=040c1268-91fb-4b27-b118-0aef1b3ebd16",
+          "name": "Golden Retriever Snoring, Tiger Cub Sneezing, and Persian Cat Sounds"
+        },
+        {
+          "uid": "147",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment6%2Foxy5-track2.mp3?alt=media&token=7c3772b7-8e2c-4ec7-badf-4a7d68389b16",
+          "name": "Fox Crunching Vegetables"
+        },
+        {
+          "uid": "148",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Ftreatment6%2Foxy5-track3.mp3?alt=media&token=c8378cd9-6c36-4ad1-9f4d-e04869289423",
+          "name": "Desert Rain Frog"
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "activeIngredient": "acetylcholine",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 4",
+      "uid": "37",
+      "tracks": [
+        {
+          "uid": "149",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment5%2Fach4-track0.mp3?alt=media&token=ca78666f-3c95-4bc0-bc73-76cf4acd1cd8",
+          "name": "Beth Pickens, Author of \"Your Art Will Save Your Life\""
+        },
+        {
+          "uid": "150",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment4%2Fach3-track1.mp3?alt=media&token=111e7be1-819f-49e7-8c5b-fbae336708b1",
+          "name": "Clip of Woman Talking About Online Dating on an Answering Machine"
+        },
+        {
+          "uid": "151",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment4%2Fach3-track2.mp3?alt=media&token=943166c4-74fc-4e98-81fd-b8e025b5e350",
+          "name": "A Mysterious Light"
+        },
+        {
+          "uid": "152",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment4%2Fach3-track3.mp3?alt=media&token=7a881d28-40a8-4382-9178-e1a74a45f662",
+          "name": "Carl Sagan: Why We Should Go to Mars"
+        },
+        {
+          "uid": "153",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment4%2Fach3-track4.mp3?alt=media&token=f7130c65-18f6-4201-8c47-0a483badad90",
+          "name": "Barbara Reiter, a Blind Person, Describes the Use of Sound and Touch to Navigate"
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "activeIngredient": "acetylcholine",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 5",
+      "uid": "38",
+      "tracks": [
+        {
+          "uid": "154",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment5%2Fach4-track0.mp3?alt=media&token=ca78666f-3c95-4bc0-bc73-76cf4acd1cd8",
+          "name": "The Proust Questionnaire"
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "activeIngredient": "acetylcholine",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 6",
+      "uid": "39",
+      "tracks": [
+        {
+          "uid": "155",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment6%2Fach5-track0.mp3?alt=media&token=902d3b42-7c65-43b1-96b0-e4c9356b83a1",
+          "name": "Space Shuttle Launch"
+        },
+        {
+          "uid": "156",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment6%2Fach5-track1.mp3?alt=media&token=e0a3232e-c013-44e0-ada9-dec58c0f63c4",
+          "name": "Carl Sagan: Why We Should Go to Mars"
+        },
+        {
+          "uid": "157",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment6%2Fach5-track2.mp3?alt=media&token=423c48ec-c08a-4562-bf2d-8d578978b166",
+          "name": "A Mysterious Light"
+        },
+        {
+          "uid": "158",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Ftreatment6%2Fach5-track3.mp3?alt=media&token=279ed6cf-aace-4b52-a31c-8c3ce87ebd85",
+          "name": "Fetal Hearbeat and Life Signs from the Golden Record"
+        }
+      ]
+    },
+    {
+      "type": "strength",
+      "activeIngredient": "testosterone",
+      "color": "#120BD6",
+      "gradientColors": [
+        "#B6F7FD",
+        "#5652C8"
+      ],
+      "name": "Program 4",
+      "uid": "40",
+      "tracks": [
+        {
+          "uid": "159",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment4%2Ftestosterone3-track0.mp3?alt=media&token=d7479b0f-7d96-4495-8c39-4d051e912061",
+          "name": "F1 Race Car"
+        },
+        {
+          "uid": "160",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment4%2Ftestosterone3-track1.mp3?alt=media&token=d6bd204c-a376-420a-807b-e3585271ff42",
+          "name": "Tennis Serves"
+        },
+        {
+          "uid": "161",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment4%2Ftestosterone3-track2.mp3?alt=media&token=901e2ec8-6928-4831-8b5c-39e852eaa0d3",
+          "name": "Punching Bag"
+        },
+        {
+          "uid": "162",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment4%2Ftestosterone3-track3.mp3?alt=media&token=d5de29a7-6b6e-4aa0-be61-03e715783b1b",
+          "name": "Horror show clip- House on Lost Man's Bluff by The Hermit's Cave"
+        },
+        {
+          "uid": "163",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment4%2Ftestosterone3-track4.mp3?alt=media&token=4bdd197b-be80-417f-bb1a-7004aa2e2d6a",
+          "name": "Sumo Wrestling"
+        },
+        {
+          "uid": "164",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftreatment4%2Ftestosterone3-track5.mp3?alt=media&token=ce125b2d-c3f2-429e-82c7-f9cd285166c6",
+          "name": "F-15 Strike Eagle"
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "activeIngredient": "acetylcholine",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 7",
+      "uid": "41",
+      "tracks": [
+        {
+          "uid": "165",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach6-track0.mp3?alt=media&token=fa948100-4db3-4ffd-96a3-6cdac75c5adb",
+          "name": "Peter Sellars Joke (She loves you - Beatles cover)"
+        },
+        {
+          "uid": "166",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach6-track1.mp3?alt=media&token=b500eb4f-1181-4faa-8ebe-3b1f5d48ec47",
+          "name": "Dame Kristin Scott Thomas Reading Various Quotes"
+        },
+        {
+          "uid": "167",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach6-track2.mp3?alt=media&token=fb9cebd2-4b0d-4f7f-b2b5-e8aa1f9c1eab",
+          "name": "Beth Pickens, Author of \"Your Art Will Save Your Life\""
+        },
+        {
+          "uid": "168",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach6-track3.mp3?alt=media&token=ba69cf8a-9944-4ddb-81b8-6aa294a3d25d",
+          "name": "Boris Dralyuk Reading Russian Classics: Georgy Ivanov"
+        },
+        {
+          "uid": "169",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach6-track4.mp3?alt=media&token=ebc365a8-7f84-43ca-ab97-515c51b2d44c",
+          "name": "UFO Watchers in Joshua Tree"
+        },
+        {
+          "uid": "170",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach6-track5.mp3?alt=media&token=543984b6-e35c-4488-8fa1-0d36c083ce2b",
+          "name": "Old OK Soda Ad – Thoughts"
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "activeIngredient": "acetylcholine",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 8",
+      "uid": "42",
+      "tracks": [
+        {
+          "uid": "171",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach7-track0.mp3?alt=media&token=75566026-9f68-4114-8518-dd84ffb2e394",
+          "name": "Boris Dralyuk Reading Russian Classics: Marina Tsvetaeva"
+        },
+        {
+          "uid": "172",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach7-track1.mp3?alt=media&token=8595d089-0022-4eeb-b4a1-69d896bd970b",
+          "name": "Audrey Hepburn Quotes"
+        },
+        {
+          "uid": "173",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach7-track2.mp3?alt=media&token=73202629-1097-4ce4-a71a-c3363e5c3d80",
+          "name": "Dame Kristin Scott Thomas Reading Various Quotes"
+        },
+        {
+          "uid": "174",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach7-track3.mp3?alt=media&token=01e9c4ae-355a-49e6-b2c3-17e59e4f72a9",
+          "name": "Clip of Woman Talking About Online Dating on an Answering Machine"
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "activeIngredient": "acetylcholine",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 9",
+      "uid": "43",
+      "tracks": [
+        {
+          "uid": "175",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach8-track0.mp3?alt=media&token=abab81d0-4885-4e1f-96be-7a86cff85021",
+          "name": "A Reading of Samuel Beckett Reading"
+        },
+        {
+          "uid": "176",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach8-track1.mp3?alt=media&token=b1a05f0e-816a-4d60-9cca-f15110756b79",
+          "name": "Queens' Speech Backwards"
+        },
+        {
+          "uid": "177",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach8-track2.mp3?alt=media&token=27c5bd2c-2410-4a29-8406-14ffc3508d06",
+          "name": "Short German Conversation"
+        },
+        {
+          "uid": "178",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach8-track3.mp3?alt=media&token=b1663aed-2279-4867-a246-b05068829f5d",
+          "name": "Reading Dictionary"
+        },
+        {
+          "uid": "179",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach8-track4.mp3?alt=media&token=c1062288-c9cb-4964-8a1e-620097f947a0",
+          "name": "Peter Sellars Joke (She loves you - Beatles cover)"
+        },
+        {
+          "uid": "180",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach8-track5.mp3?alt=media&token=e90d09dd-bf74-4a53-8042-9c7372d41182",
+          "name": "Reading Affirmations"
+        }
+      ]
+    },
+    {
+      "type": "focus",
+      "activeIngredient": "acetylcholine",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 10",
+      "uid": "44",
+      "tracks": [
+        {
+          "uid": "181",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach9-track0.mp3?alt=media&token=54f05c91-830f-45e7-9db9-77adbf08a4d6",
+          "name": "Alleyways of Holy City Varanasi and a Snippet of Jah Millipede"
+        },
+        {
+          "uid": "182",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach9-track1.mp3?alt=media&token=664ddf36-10e0-493b-9aea-b1d4f01dbace",
+          "name": "Fetal Heartbeat, Inside a Thunderstorm, A Mysterious Light, and Jah Millipede Snippet"
+        },
+        {
+          "uid": "183",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Facetylcholine%2Fach9-track2.mp3?alt=media&token=b5fca852-9674-4608-be39-59803be86493",
+          "name": "UFO Watchers in Joshua Tree"
+        }
+      ]
+    },
+    {
+      "type": "confidence",
+      "activeIngredient": "dopamine",
+      "color": "#850DA8",
+      "gradientColors": [
+        "#FF9C86",
+        "#EC8AFF",
+        "#7F8BFF"
+      ],
+      "name": "Program 7",
+      "uid": "45",
+      "tracks": [
+        {
+          "uid": "184",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop6-track0.mp3?alt=media&token=56c79cea-c462-48b3-a5ae-4bb62f40a722",
+          "name": "Orchestra Tuning and Taiko Drums"
+        },
+        {
+          "uid": "185",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop6-track1.mp3?alt=media&token=c40e0480-a8e4-4464-8bfb-872e987ea745",
+          "name": "Carmina Burana and Freddie Mercury at Live Aid"
+        },
+        {
+          "uid": "186",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop6-track2.mp3?alt=media&token=5d89b72a-13b0-4377-a23c-c7158fcd8177",
+          "name": "The Kop Singing \"You'll Never Walk Alone\" and Orchestra Tuning in Reverse"
+        }
+      ]
+    },
+    {
+      "type": "confidence",
+      "activeIngredient": "dopamine",
+      "color": "#850DA8",
+      "gradientColors": [
+        "#FF9C86",
+        "#EC8AFF",
+        "#7F8BFF"
+      ],
+      "name": "Program 8",
+      "uid": "46",
+      "tracks": [
+        {
+          "uid": "187",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop7-track0.mp3?alt=media&token=0e465b2a-9856-4129-92f1-16e4ea33e510",
+          "name": "Gameboy Win"
+        },
+        {
+          "uid": "188",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop7-track1.mp3?alt=media&token=1d62fcc2-6b15-4810-97a7-328e4ff26aa1",
+          "name": "Sonic Boom"
+        },
+        {
+          "uid": "189",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop7-track2.mp3?alt=media&token=772830b1-0776-401a-a56a-feb7cba781e8",
+          "name": "Taiko Drums and Morse Code"
+        },
+        {
+          "uid": "190",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop7-track3.mp3?alt=media&token=94599078-1aa6-40ec-866a-09921889bc84",
+          "name": "Celtic Hand Drums"
+        },
+        {
+          "uid": "191",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop7-track4.mp3?alt=media&token=3b54796d-fa0e-4772-b404-9e4e5f9eaec0",
+          "name": "Guiness Ad, Screeching Car Tires, and Star Wars Landing Sequence"
+        }
+      ]
+    },
+    {
+      "type": "confidence",
+      "activeIngredient": "dopamine",
+      "color": "#850DA8",
+      "gradientColors": [
+        "#FF9C86",
+        "#EC8AFF",
+        "#7F8BFF"
+      ],
+      "name": "Program 9",
+      "uid": "47",
+      "tracks": [
+        {
+          "uid": "192",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop8-track0.mp3?alt=media&token=666fb7e9-6932-4e60-bbd2-a21e2adde3a8",
+          "name": "Church Bells in Cologne, Diving With Whales, and an Orchestra Tuning"
+        },
+        {
+          "uid": "193",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop8-track1.mp3?alt=media&token=bd0d57af-f935-47b8-8e60-85c8ed0c8fb3",
+          "name": "Devendra Banhart Electric Guitar Track"
+        },
+        {
+          "uid": "194",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop8-track2.mp3?alt=media&token=48606be0-76f1-4957-968c-73e11d7bc269",
+          "name": "Bowling Strikesm Sounds of DMT, and Star Wars Landing Sequence"
+        }
+      ]
+    },
+    {
+      "type": "confidence",
+      "activeIngredient": "dopamine",
+      "color": "#850DA8",
+      "gradientColors": [
+        "#FF9C86",
+        "#EC8AFF",
+        "#7F8BFF"
+      ],
+      "name": "Program 10",
+      "uid": "48",
+      "tracks": [
+        {
+          "uid": "195",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop9-track0.mp3?alt=media&token=df5d53b1-12b7-4d11-b41d-19fc1327d06f",
+          "name": "Devendra Banhart Track"
+        },
+        {
+          "uid": "196",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop9-track1.mp3?alt=media&token=b4d44b73-9641-4a59-bd71-347fe928676f",
+          "name": "Harmonized Clarinet"
+        },
+        {
+          "uid": "197",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop9-track2.mp3?alt=media&token=636a02b9-230f-4c2a-a059-9214902edaf6",
+          "name": "Devendra Banhart Synth Track and Morse Code"
+        },
+        {
+          "uid": "198",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop9-track3.mp3?alt=media&token=137cb01b-bb14-4bf5-b556-d8950bdc4b04",
+          "name": "Gameboy Win in Reverse"
+        },
+        {
+          "uid": "199",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fdopamine%2Fdop9-track4.mp3?alt=media&token=7d156a4b-5b41-48dd-b9ad-134b9688f9ca",
+          "name": "Every Note on a Casio Keyboard and Devendra Banhart Winds Track"
+        }
+      ]
+    },
+    {
+      "type": "energy",
+      "activeIngredient": "endorphins",
+      "color": "#FB3E00",
+      "gradientColors": [
+        "#F43B47",
+        "#FEE140"
+      ],
+      "name": "Program 7",
+      "uid": "49",
+      "tracks": [
+        {
+          "uid": "200",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins6-track0.mp3?alt=media&token=794d589a-ad17-4590-93f0-a195be3e9c96",
+          "name": "Tennis Drills"
+        },
+        {
+          "uid": "201",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins6-track1.mp3?alt=media&token=f28b3ed5-b88c-46b2-bfcd-3a0ba2ccd8ca",
+          "name": "Bullet Train Announcement and Shinkansen Train"
+        },
+        {
+          "uid": "202",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins6-track2.mp3?alt=media&token=85df81eb-c6c0-43d7-875f-59a70c345d24",
+          "name": "F1 Race Car Lap"
+        },
+        {
+          "uid": "203",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins6-track3.mp3?alt=media&token=3b9c3df4-8f5d-4d1b-ac28-974ddf5e54d7",
+          "name": "Binaural Thunderstorm"
+        }
+      ]
+    },
+    {
+      "type": "energy",
+      "activeIngredient": "endorphins",
+      "color": "#FB3E00",
+      "gradientColors": [
+        "#F43B47",
+        "#FEE140"
+      ],
+      "name": "Program 8",
+      "uid": "50",
+      "tracks": [
+        {
+          "uid": "204",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins7-track0.mp3?alt=media&token=f95872e9-3ae9-4959-9628-e51122fbf060",
+          "name": "Dog With a Funny Bark"
+        },
+        {
+          "uid": "205",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins7-track1.mp3?alt=media&token=2f52dbc3-0f4e-4804-86b7-492abbdb80d2",
+          "name": "Robot Laughing"
+        },
+        {
+          "uid": "206",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins7-track2.mp3?alt=media&token=48bfdd49-a3e8-47e1-a5fa-c4e2d3c328f6",
+          "name": "Dogs Barking Slowed Down"
+        },
+        {
+          "uid": "207",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins7-track3.mp3?alt=media&token=62de37a9-2f39-4e12-8342-3dec1dd49b61",
+          "name": "A Woman Laughing"
+        },
+        {
+          "uid": "208",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins7-track3.mp3?alt=media&token=62de37a9-2f39-4e12-8342-3dec1dd49b61",
+          "name": "Russian Intel Laugh and Audience Laughter"
+        }
+      ]
+    },
+    {
+      "type": "energy",
+      "activeIngredient": "endorphins",
+      "color": "#FB3E00",
+      "gradientColors": [
+        "#F43B47",
+        "#FEE140"
+      ],
+      "name": "Program 9",
+      "uid": "51",
+      "tracks": [
+        {
+          "uid": "209",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins8-track0.mp3?alt=media&token=bfc8ed58-dadd-4901-81d7-2f68db929912",
+          "name": "Guillotine"
+        },
+        {
+          "uid": "210",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins8-track1.mp3?alt=media&token=56def21b-bf23-4bff-8a4b-9c4c827fdba6",
+          "name": "Lava Sounds and Rollercoaster Sounds"
+        },
+        {
+          "uid": "211",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins8-track2.mp3?alt=media&token=507cf70c-2107-4757-9d48-90c3c6cf2d25",
+          "name": "Audience Laughter and Applause"
+        },
+        {
+          "uid": "212",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins8-track3.mp3?alt=media&token=28c99e40-bdcd-4794-a91b-8f534f403fe0",
+          "name": "Tractor, Bus, Automobilem and Shinkansen Train"
+        }
+      ]
+    },
+    {
+      "type": "energy",
+      "activeIngredient": "endorphins",
+      "color": "#FB3E00",
+      "gradientColors": [
+        "#F43B47",
+        "#FEE140"
+      ],
+      "name": "Program 10",
+      "uid": "52",
+      "tracks": [
+        {
+          "uid": "213",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins9-track0.mp3?alt=media&token=0e23d62f-16e6-4976-bd5d-ece21ae51980",
+          "name": "Robot Laughing Forward and Reversed and Tire Screeching"
+        },
+        {
+          "uid": "214",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins9-track1.mp3?alt=media&token=fec20380-16f6-4aab-b969-97abbf708834",
+          "name": "Horror Show Clip, Dies Irae Verdi, and Jaws Theme"
+        },
+        {
+          "uid": "215",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins9-track2.mp3?alt=media&token=61c48c23-9678-4b75-b23a-63503475d183",
+          "name": "Native American Drum Chant"
+        },
+        {
+          "uid": "216",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fendorphins%2Fendorphins9-track3.mp3?alt=media&token=d2eb03dc-dc04-40d8-adad-64ac48633e3d",
+          "name": "Broken Glass"
+        }
+      ]
+    },
+    {
+      "type": "imagination",
+      "activeIngredient": "experimental",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 7",
+      "uid": "53",
+      "tracks": [
+        {
+          "uid": "217",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem6-track0.mp3?alt=media&token=3ac54139-523a-4806-88c2-2b3d5af22580",
+          "name": "UFO Watchers in Joshua Tree"
+        },
+        {
+          "uid": "218",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem6-track1.mp3?alt=media&token=e76ce268-2b57-496f-b7ea-4dcb7b26142f",
+          "name": "Freddie Mercury at Live Aid"
+        },
+        {
+          "uid": "219",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem6-track2.mp3?alt=media&token=7c00d5aa-d6cd-49ff-931c-db17a8c8af01",
+          "name": "Jah Millipede and Questions Asked by a Voice That Sounds Like Scarlett Johansson"
+        },
+        {
+          "uid": "220",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem6-track3.mp3?alt=media&token=00090e3e-1a84-4322-9581-51acf26a9da3",
+          "name": "Sound of Space"
+        }
+      ]
+    },
+    {
+      "type": "imagination",
+      "activeIngredient": "experimental",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 8",
+      "uid": "54",
+      "tracks": [
+        {
+          "uid": "221",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem7-track0.mp3?alt=media&token=b67efda5-c8f4-4283-847b-0ecabde5a6c3",
+          "name": "Sleeping Tiger"
+        },
+        {
+          "uid": "222",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem7-track1.mp3?alt=media&token=3c369038-e948-405b-ac2a-62d2aee59b4e",
+          "name": "Gorilla Noises"
+        },
+        {
+          "uid": "223",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem7-track2.mp3?alt=media&token=37360441-7315-4d96-ae8c-8e8b7021dbd0",
+          "name": "Frogs and Black Grouse"
+        },
+        {
+          "uid": "224",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem7-track3.mp3?alt=media&token=4e21ba4e-aae6-44d3-91d0-6878c4473bda",
+          "name": "Alligator Bellow"
+        },
+        {
+          "uid": "225",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem7-track4.mp3?alt=media&token=e94fb8e0-e1c8-4f21-ad31-7b97f9878fd9",
+          "name": "Birds"
+        }
+      ]
+    },
+    {
+      "type": "imagination",
+      "activeIngredient": "experimental",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 9",
+      "uid": "55",
+      "tracks": [
+        {
+          "uid": "226",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem8-track0.mp3?alt=media&token=8731eb79-e4f5-4c69-891e-5bd4b7c6462d",
+          "name": "Pottery Mixing Machine, Geta Shoes and Glasses Clinking"
+        },
+        {
+          "uid": "227",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem8-track1.mp3?alt=media&token=03d40b24-31b3-4ae7-9a80-534986645519",
+          "name": "Small Waterfall by a Temple in Japan, a Shishi Odoshi Fountain, and Navajo Song of Happiness"
+        }
+      ]
+    },
+    {
+      "type": "imagination",
+      "activeIngredient": "experimental",
+      "color": "#00C2A4",
+      "gradientColors": [
+        "#E0FDFF",
+        "#93F5F0",
+        "#5BD9A7"
+      ],
+      "name": "Program 10",
+      "uid": "56",
+      "tracks": [
+        {
+          "uid": "228",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem9-track0.mp3?alt=media&token=314841ac-5bee-4c49-bdc1-50f90976c1f2",
+          "name": "Barbara Reiter Describes Navigation Without Vision"
+        },
+        {
+          "uid": "229",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem9-track1.mp3?alt=media&token=3dc850c4-67a1-4132-a186-81efa3a7ca6d",
+          "name": "Bells and Prayers at a Temple in Kyoto, Japanese Sliding Door, and Artificial Bird Signal at a Crosswalk in Japan"
+        },
+        {
+          "uid": "230",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fexperimental-medicine%2Fem9-track2.mp3?alt=media&token=ffab9ff8-398d-45b2-a2f3-75ae2b230378",
+          "name": "St. Mark's Square, Radio in a Ramen Shop, and St. Paul's Bells"
+        }
+      ]
+    },
+    {
+      "type": "calm",
+      "activeIngredient": "GABA",
+      "color": "#00C3FE",
+      "gradientColors": [
+        "#95DDFF",
+        "#FBF1ED"
+      ],
+      "name": "Program 7",
+      "uid": "57",
+      "tracks": [
+        {
+          "uid": "231",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Fgaba6-track0.mp3?alt=media&token=71a999cf-50a0-41a9-bcfe-86c1ffab4bc4",
+          "name": "Zulu Voices"
+        },
+        {
+          "uid": "232",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Fgaba6-track1.mp3?alt=media&token=ba79ce14-9d37-4fb3-94fc-c71f46b4e638",
+          "name": "Navajo Song of Happiness"
+        },
+        {
+          "uid": "233",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Fgaba6-track2.mp3?alt=media&token=b073d671-fcbd-484e-ad9b-f0d50838985f",
+          "name": "Church Bells in Italy and Shirley's Temple"
+        },
+        {
+          "uid": "234",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Fgaba6-track3.mp3?alt=media&token=07ed0635-a6a3-4afc-aa2f-9ff602b6769a",
+          "name": "Tibetan Singing Bowl"
+        }
+      ]
+    },
+    {
+      "type": "calm",
+      "activeIngredient": "GABA",
+      "color": "#00C3FE",
+      "gradientColors": [
+        "#95DDFF",
+        "#FBF1ED"
+      ],
+      "name": "Program 8",
+      "uid": "58",
+      "tracks": [
+        {
+          "uid": "235",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Fgaba7-track0.mp3?alt=media&token=6e0b263f-ceae-4db7-9d42-699655edb727",
+          "name": "A Collection of Devendra Banhart Tracks"
+        },
+        {
+          "uid": "236",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Fgaba7-track1.mp3?alt=media&token=9de3774d-d8ef-4433-9991-8ad841fc973f",
+          "name": "An Approaching Storm and a Waterfall"
+        }
+      ]
+    },
+    {
+      "type": "calm",
+      "activeIngredient": "GABA",
+      "color": "#00C3FE",
+      "gradientColors": [
+        "#95DDFF",
+        "#FBF1ED"
+      ],
+      "name": "Program 9",
+      "uid": "59",
+      "tracks": [
+        {
+          "uid": "237",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Fgaba8-track0.mp3?alt=media&token=57d0fb8b-82c8-411e-94c8-7877ea7e8201",
+          "name": "Devendra Banhart Chant and an Orin Bell"
+        },
+        {
+          "uid": "238",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Fgaba8-track1.mp3?alt=media&token=1217b7d7-b36d-4a89-86b9-52618cbde6ee",
+          "name": "Tlingit Paddling Song"
+        },
+        {
+          "uid": "239",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Fgaba8-track2.mp3?alt=media&token=074ba99c-833c-4c61-8d71-9b1348be7ff8",
+          "name": "Canoe on Water, Whale Songs, Meditation Bell, and the Crunching of a Gravel Road Layered With a Devendra Banhart Track"
+        }
+      ]
+    },
+    {
+      "type": "calm",
+      "activeIngredient": "GABA",
+      "color": "#00C3FE",
+      "gradientColors": [
+        "#95DDFF",
+        "#FBF1ED"
+      ],
+      "name": "Program 10",
+      "uid": "60",
+      "tracks": [
+        {
+          "uid": "240",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Fgaba9-track0.mp3?alt=media&token=6a667af4-1251-4764-b9a3-a7e30cfd8911",
+          "name": "Shirley's Temple and and Original Devendra Banhart Track"
+        },
+        {
+          "uid": "241",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Fgaba%2Fgaba9-track1.mp3?alt=media&token=05c292cf-b72c-4659-b52a-edc55e403bbe",
+          "name": "Original Devendra Vanhart Tracks and Jah Millipede Forward and Reversed"
+        }
+      ]
+    },
+    {
+      "type": "connection",
+      "activeIngredient": "oxytocin",
+      "color": "#FC9597",
+      "gradientColors": [
+        "#FFB8B8",
+        "#CBFFFB"
+      ],
+      "name": "Program 7",
+      "uid": "61",
+      "tracks": [
+        {
+          "uid": "242",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy6-track0.mp3?alt=media&token=b3ef920a-64c8-4e50-9734-6a21ee937cc4",
+          "name": "Exhalation and Baby Laughing at Ripping Paper"
+        },
+        {
+          "uid": "243",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy6-track1.mp3?alt=media&token=438d449e-c72f-4259-bc0e-53b8b4f01700",
+          "name": "Babies First Words"
+        },
+        {
+          "uid": "244",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy6-track1.mp3?alt=media&token=438d449e-c72f-4259-bc0e-53b8b4f01700",
+          "name": "Sofia Coppola at 5 Years Old"
+        },
+        {
+          "uid": "245",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy6-track3.mp3?alt=media&token=38297db0-9cec-44ca-81d7-dc73573f7845",
+          "name": "More Babies First Words"
+        }
+      ]
+    },
+    {
+      "type": "connection",
+      "activeIngredient": "oxytocin",
+      "color": "#FC9597",
+      "gradientColors": [
+        "#FFB8B8",
+        "#CBFFFB"
+      ],
+      "name": "Program 8",
+      "uid": "62",
+      "tracks": [
+        {
+          "uid": "246",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy7-track0.mp3?alt=media&token=8e61d1c0-6213-4f87-b7af-7f204e2f0186",
+          "name": "Applause at the End of the Koln Concert"
+        },
+        {
+          "uid": "247",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy7-track1.mp3?alt=media&token=1916aa5e-abe5-42c7-85d8-b09021328102",
+          "name": "Children Playing Clapping Games"
+        },
+        {
+          "uid": "248",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy7-track2.mp3?alt=media&token=73a45050-5ea1-496b-9fcf-70ffb20b6558",
+          "name": "Japanese Children Singing"
+        },
+        {
+          "uid": "249",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy7-track3.mp3?alt=media&token=325a4b24-3df3-4593-9a82-1e5d5efd9ac2",
+          "name": "Freddie Mercury at Live Aid"
+        },
+        {
+          "uid": "250",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy7-track4.mp3?alt=media&token=f8f90c7d-5e66-4dcc-aabf-1105b914d79e",
+          "name": "Sheep Bleating"
+        },
+        {
+          "uid": "251",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy7-track5.mp3?alt=media&token=8e6a6a5e-36ce-46ec-82ac-8c2c1308d781",
+          "name": "Starlings"
+        }
+      ]
+    },
+    {
+      "type": "connection",
+      "activeIngredient": "oxytocin",
+      "color": "#FC9597",
+      "gradientColors": [
+        "#FFB8B8",
+        "#CBFFFB"
+      ],
+      "name": "Program 9",
+      "uid": "63",
+      "tracks": [
+        {
+          "uid": "252",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy8-track0.mp3?alt=media&token=84cfcae0-63be-409f-b5b7-29ad911bae90",
+          "name": "Cheetah Purring"
+        },
+        {
+          "uid": "253",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy8-track1.mp3?alt=media&token=80b9a2af-10f6-4b80-97da-6959a15dabc6",
+          "name": "Golden Retriever Snoring and Gorilla Noises"
+        },
+        {
+          "uid": "254",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy8-track2.mp3?alt=media&token=702e8132-d5ba-4b07-9470-3c5c2242051c",
+          "name": "Tiger Cub Sneezing and Chimp Laughing"
+        },
+        {
+          "uid": "255",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Foxytocin%2Foxy8-track3.mp3?alt=media&token=1f817515-f603-438b-97d1-3bbf16fcca70",
+          "name": "Alligator Bellow, Birds, Hyena, and Elephant"
+        }
+      ]
+    },
+    {
+      "type": "strength",
+      "activeIngredient": "testosterone",
+      "color": "#120BD6",
+      "gradientColors": [
+        "#B6F7FD",
+        "#5652C8"
+      ],
+      "name": "Program 5",
+      "uid": "64",
+      "tracks": [
+        {
+          "uid": "256",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone4-track0.mp3?alt=media&token=97a0185f-ea97-4e8a-ba35-a53808012a42",
+          "name": "Black Grouse"
+        },
+        {
+          "uid": "257",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone4-track1.mp3?alt=media&token=3704d29e-6973-4922-a9ec-dd49eaccb7fb",
+          "name": "Gorilla Noises"
+        },
+        {
+          "uid": "258",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone4-track2.mp3?alt=media&token=8dcc21b6-3584-4fa4-bc13-c9e79579c59d",
+          "name": "Crystal Palace, Shouts and Claps at Men's 200m Free-Style Race"
+        },
+        {
+          "uid": "259",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone4-track3.mp3?alt=media&token=07fda287-bc8f-44e7-8ff4-d6aa53c4dbaf",
+          "name": "Venice Skatepark"
+        },
+        {
+          "uid": "260",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone4-track4.mp3?alt=media&token=843f22ef-fe0e-4972-bebd-0da5d6b84309",
+          "name": "F1 Race Car Lap"
+        },
+        {
+          "uid": "261",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone4-track5.mp3?alt=media&token=a26c1543-1b11-4052-ac22-0eae05f63d16",
+          "name": "Boxing"
+        }
+      ]
+    },
+    {
+      "type": "strength",
+      "activeIngredient": "testosterone",
+      "color": "#120BD6",
+      "gradientColors": [
+        "#B6F7FD",
+        "#5652C8"
+      ],
+      "name": "Program 6",
+      "uid": "65",
+      "tracks": [
+        {
+          "uid": "262",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone5-track0.mp3?alt=media&token=ea31ba76-fde4-4aed-ba46-2d3ee020d679",
+          "name": "F-111 flyby"
+        },
+        {
+          "uid": "263",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone5-track1.mp3?alt=media&token=1ba71b99-2fa6-427b-bc6c-a71f50881e08",
+          "name": "Extreme Skiing and Star Wars Landing Sequence"
+        },
+        {
+          "uid": "264",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone5-track2.mp3?alt=media&token=6d772bee-30ce-473e-873c-1f0893b3e233",
+          "name": "Matthew McConaughey Beating His Chest"
+        },
+        {
+          "uid": "265",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone5-track3.mp3?alt=media&token=51e704e3-fdd2-49c7-99a5-76c7cb9ce76f",
+          "name": "Bowling Strikes"
+        }
+      ]
+    },
+    {
+      "type": "strength",
+      "activeIngredient": "testosterone",
+      "color": "#120BD6",
+      "gradientColors": [
+        "#B6F7FD",
+        "#5652C8"
+      ],
+      "name": "Program 7",
+      "uid": "66",
+      "tracks": [
+        {
+          "uid": "266",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone6-track0.mp3?alt=media&token=cd8728a9-7758-40d1-82c0-41a26c4fcd28",
+          "name": "Man Running"
+        },
+        {
+          "uid": "267",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone6-track1.mp3?alt=media&token=26c5bfd2-6a0a-4582-869d-f02383f20841",
+          "name": "Seated Chest Press"
+        },
+        {
+          "uid": "268",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone6-track2.mp3?alt=media&token=e69205e5-513e-49df-bde2-9e24fbab2047",
+          "name": "A Wrestling Match Slam and a Shinkansen Train"
+        },
+        {
+          "uid": "269",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone6-track3.mp3?alt=media&token=2afc9fc2-4f5f-4007-ba22-a5102cbbf174",
+          "name": "Speed Bag Punching"
+        },
+        {
+          "uid": "270",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone6-track4.mp3?alt=media&token=70bca42a-da3a-412e-891f-20d2764062d8",
+          "name": "Roller Coaster"
+        },
+        {
+          "uid": "271",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone6-track5.mp3?alt=media&token=b1b0ef67-8a1d-4ee1-8290-e2f2114c5165",
+          "name": "Venice Skate Park"
+        }
+      ]
+    },
+    {
+      "type": "strength",
+      "activeIngredient": "testosterone",
+      "color": "#120BD6",
+      "gradientColors": [
+        "#B6F7FD",
+        "#5652C8"
+      ],
+      "name": "Program 8",
+      "uid": "67",
+      "tracks": [
+        {
+          "uid": "272",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone7-track0.mp3?alt=media&token=100049c3-3abc-45b6-b912-418448da6f98",
+          "name": "Tractor, Bus, Auto, and F-15 Strike Eagle"
+        },
+        {
+          "uid": "273",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone7-track1.mp3?alt=media&token=7a8efef9-340b-4f87-b404-9b1ecf81bb5f",
+          "name": "Football Pep Talk"
+        },
+        {
+          "uid": "274",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone7-track2.mp3?alt=media&token=f8ff62e0-03f9-477a-9f9e-dd652d3992aa",
+          "name": "Footsteps, Heartbeat, and Laughter"
+        },
+        {
+          "uid": "275",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone7-track3.mp3?alt=media&token=77846c2b-478f-40b0-b7ae-e5e37878e87a",
+          "name": "Native American Drumming and Chanting in Arena"
+        },
+        {
+          "uid": "276",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone7-track4.mp3?alt=media&token=6aa92d73-02bd-418b-94f8-fb21c9a07fa9",
+          "name": "Sounds of Tennis"
+        }
+      ]
+    },
+    {
+      "type": "strength",
+      "activeIngredient": "testosterone",
+      "color": "#120BD6",
+      "gradientColors": [
+        "#B6F7FD",
+        "#5652C8"
+      ],
+      "name": "Program 9",
+      "uid": "68",
+      "tracks": [
+        {
+          "uid": "277",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone8-track0.mp3?alt=media&token=a07c3a16-bcdc-4d92-8c49-d1d0c40020de",
+          "name": "Sound of an Exhale, Forwards and Backwards"
+        },
+        {
+          "uid": "278",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone8-track1.mp3?alt=media&token=3b389886-1232-4129-9cb8-0779c995d1a8",
+          "name": "F-111 Flyby, an F1 Car Race Reversed, a Train Passing at Night, and Star Wars Foley Sounds"
+        }
+      ]
+    },
+    {
+      "type": "strength",
+      "activeIngredient": "testosterone",
+      "color": "#120BD6",
+      "gradientColors": [
+        "#B6F7FD",
+        "#5652C8"
+      ],
+      "name": "Program 10",
+      "uid": "69",
+      "tracks": [
+        {
+          "uid": "279",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone9-track0.mp3?alt=media&token=a3fdbf51-3133-4a9e-af8c-06722bce96cf",
+          "name": "Man Running"
+        },
+        {
+          "uid": "280",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone9-track1.mp3?alt=media&token=621efc68-01e6-4166-8424-880a4d7e4621",
+          "name": "Crystal Palace, Starting and Finish of Men's 200m Free-Style Race"
+        },
+        {
+          "uid": "281",
+          "url": "https://firebasestorage.googleapis.com/v0/b/aebeze-api.appspot.com/o/audio-app%2Ftracks%2Fnicholas-mixes%2Ftestosterone%2Ftestosterone9-track2.mp3?alt=media&token=b46657cf-937b-4be8-9047-5b1d53be7c0b",
+          "name": "Taiko Drums, a Wrestling Match Slam, Hammer Chiseling a Brick, a Guillotine, and an Exhale"
+        }
+      ]
+    }
+  ]
+}
